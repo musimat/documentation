@@ -1,0 +1,4964 @@
+AutoGen Definitions dummy;
+file = {
+  file-id   = '_c090400_8cpp';
+  file-name = 'C090400.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090400_8cpp_1a3794d6b0cb73800ca23cdd7c5586a909';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C090400
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090400.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+        func-mem-ref-line = '83';
+        func-mem-ref-name = 'para2';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090400_8cpp_1aa813a0e1b32ce652033787e1675dcad2';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+PitchList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'guidoPitches';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+G3
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+A3
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+B3
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C4
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+D4
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+E4
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+F4
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+G4
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+A4
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+B4
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C5
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+D5
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+E5
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+F5
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+G5
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090400.cpp';
+      func-mem-desc-line = '17';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090400.cpp';
+      func-mem-desc-line = '19';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090400_8cpp_1adce992d35b4e07b05cd8a477a3206bd6';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+PitchList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'guido1';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+String
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'text';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090400.cpp';
+      func-mem-desc-line = '29';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090400_8cpp_1a8dddee101fa87aa86b77a36829af420d';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+PitchList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'guido';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+String
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'text';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090400.cpp';
+      func-mem-desc-line = '57';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090400_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para2';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090400.cpp';
+      func-mem-desc-line = '83';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090400.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c090703_8cpp';
+  file-name = 'C090703.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703_8cpp_1a4fc7724c8b570a81d63ab342dc6748ee';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C090703
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703_8cpp_1ace565ce504cbccd009364f39c1720994';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'lcRandom';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703.cpp';
+      func-mem-desc-line = '55';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1a6ca18f1dd0fd88bb684a02a1c56c6bd8';
+        func-mem-ref-line = '50';
+        func-mem-ref-name = 'lc_a';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1aff8f2db35c507c01e81090460fbf1fdc';
+        func-mem-ref-line = '51';
+        func-mem-ref-name = 'lc_b';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1aae3505aae17a2b5be97a82cb31ae8f07';
+        func-mem-ref-line = '52';
+        func-mem-ref-name = 'lc_c';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1a2a8efdbc2de6edf33fe9363cf9491dd6';
+        func-mem-ref-line = '53';
+        func-mem-ref-name = 'lc_x';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703.cpp';
+      func-mem-desc-line = '64';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1ace565ce504cbccd009364f39c1720994';
+        func-mem-ref-line = '55';
+        func-mem-ref-name = 'lcRandom';
+    };
+    }; /* func-member */
+    };
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = '_c090703_8cpp_1a6ca18f1dd0fd88bb684a02a1c56c6bd8';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+Const Integer
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'lc_a';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+ 16807
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703.cpp';
+      var-mem-desc-line = '50';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = '_c090703_8cpp_1aff8f2db35c507c01e81090460fbf1fdc';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+Const Integer
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'lc_b';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+ 0
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703.cpp';
+      var-mem-desc-line = '51';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = '_c090703_8cpp_1aae3505aae17a2b5be97a82cb31ae8f07';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+Const Integer
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'lc_c';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+ 2147483647
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703.cpp';
+      var-mem-desc-line = '52';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = '_c090703_8cpp_1a2a8efdbc2de6edf33fe9363cf9491dd6';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'lc_x';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+ 1
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703.cpp';
+      var-mem-desc-line = '53';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c090703a_8cpp';
+  file-name = 'C090703a.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703a_8cpp_1a8635c8396ca49d8843efb8a4bb62a6de';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C090703a
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703a.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703a_8cpp_1ace565ce504cbccd009364f39c1720994';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'lcRandom';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703a.cpp';
+      func-mem-desc-line = '17';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1a6ca18f1dd0fd88bb684a02a1c56c6bd8';
+        func-mem-ref-line = '50';
+        func-mem-ref-name = 'lc_a';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1aff8f2db35c507c01e81090460fbf1fdc';
+        func-mem-ref-line = '51';
+        func-mem-ref-name = 'lc_b';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1aae3505aae17a2b5be97a82cb31ae8f07';
+        func-mem-ref-line = '52';
+        func-mem-ref-name = 'lc_c';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1a2a8efdbc2de6edf33fe9363cf9491dd6';
+        func-mem-ref-line = '53';
+        func-mem-ref-name = 'lc_x';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703a_8cpp_1a62386ee4462631043227484debebd75d';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'seedRandom';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 's';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703a.cpp';
+      func-mem-desc-line = '27';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1a2a8efdbc2de6edf33fe9363cf9491dd6';
+        func-mem-ref-line = '53';
+        func-mem-ref-name = 'lc_x';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703a_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703a.cpp';
+      func-mem-desc-line = '31';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1ace565ce504cbccd009364f39c1720994';
+        func-mem-ref-line = '55';
+        func-mem-ref-name = 'lcRandom';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703a_8cpp_1a62386ee4462631043227484debebd75d';
+        func-mem-ref-line = '27';
+        func-mem-ref-name = 'seedRandom';
+    };
+    }; /* func-member */
+    };
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = '_c090703a_8cpp_1a2a8efdbc2de6edf33fe9363cf9491dd6';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'lc_x';
+      var-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703a.cpp';
+      var-mem-desc-line = '18';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703a.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c090703b_8cpp';
+  file-name = 'C090703b.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703b_8cpp_1a41648bf4cf7338bf4bca115fad839f19';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C090703b
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703b.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703b_8cpp_1a6b8d5627624be264167f6e896b748fde';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'luRandom';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+        func-mem-param-defval = <<_EnD_oF_dEf_TeXt_
+0.0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'U';
+        func-mem-param-defval = <<_EnD_oF_dEf_TeXt_
+1.0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703b.cpp';
+      func-mem-desc-line = '19';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703b_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703b.cpp';
+      func-mem-desc-line = '27';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703b_8cpp_1a6b8d5627624be264167f6e896b748fde';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'luRandom';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703b.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c090703c_8cpp';
+  file-name = 'C090703c.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703c_8cpp_1af4ff72e4446b0027b761f938d7012193';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C090703c
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703c.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+        func-mem-ref-line = '83';
+        func-mem-ref-name = 'para2';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703c_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703c.cpp';
+      func-mem-desc-line = '13';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703c_8cpp_1ab6cf9f954fcd1d2f5d5e85ed90c6dd03';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'iRandom';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'U';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703c.cpp';
+      func-mem-desc-line = '38';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090703c_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para2';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703c.cpp';
+      func-mem-desc-line = '45';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703c_8cpp_1ab6cf9f954fcd1d2f5d5e85ed90c6dd03';
+        func-mem-ref-line = '38';
+        func-mem-ref-name = 'iRandom';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090703c.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c090903_8cpp';
+  file-name = 'C090903.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090903_8cpp_1a46b7983268ac702433280f0e45c27791';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C090903
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090903.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090903_8cpp_1a22c8d94c6ed90f6268e704ae22342ed4';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'rotate';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'f';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'n';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'i';
+        func-mem-param-defval = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090903.cpp';
+      func-mem-desc-line = '19';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090903_8cpp_1a22c8d94c6ed90f6268e704ae22342ed4';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'rotate';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c090903_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090903.cpp';
+      func-mem-desc-line = '29';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090903_8cpp_1a22c8d94c6ed90f6268e704ae22342ed4';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'rotate';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C090903.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091101_8cpp';
+  file-name = 'C091101.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091101_8cpp_1a408f44f58ae88c465382cb687cc49ca3';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091101
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091101.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+        func-mem-ref-line = '83';
+        func-mem-ref-name = 'para2';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091101_8cpp_1ab1a58db5a4536b48a9dc72f2b45a7646';
+        func-mem-ref-line = '93';
+        func-mem-ref-name = 'para3';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091101_8cpp_1a40937cbf348f53dcfe2ed2151483d2a3';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'transpose';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 't';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091101.cpp';
+      func-mem-desc-line = '41';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091101_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091101.cpp';
+      func-mem-desc-line = '48';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091101_8cpp_1a40937cbf348f53dcfe2ed2151483d2a3';
+        func-mem-ref-line = '41';
+        func-mem-ref-name = 'transpose';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091101_8cpp_1a4601ab7349594e56eec46f0132848c68';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'invert';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091101.cpp';
+      func-mem-desc-line = '63';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091101_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para2';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091101.cpp';
+      func-mem-desc-line = '70';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091101_8cpp_1a4601ab7349594e56eec46f0132848c68';
+        func-mem-ref-line = '63';
+        func-mem-ref-name = 'invert';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091101_8cpp_1a1d4aec276072de230e1f8acc9a667e1c';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'retrograde';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091101.cpp';
+      func-mem-desc-line = '84';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091101_8cpp_1ab1a58db5a4536b48a9dc72f2b45a7646';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para3';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091101.cpp';
+      func-mem-desc-line = '93';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091101.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091102_8cpp';
+  file-name = 'C091102.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091102_8cpp_1aa88d510a84ea93c3de4d8fd856c18291';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091102
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091102.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+        func-mem-ref-line = '83';
+        func-mem-ref-name = 'para2';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091102_8cpp_1aa9fbc6a18946d0ced4840c9ae018d4a6';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerMatrix
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'setComplex';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'prime';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091102.cpp';
+      func-mem-desc-line = '34';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091101_8cpp_1a4601ab7349594e56eec46f0132848c68';
+        func-mem-ref-line = '63';
+        func-mem-ref-name = 'invert';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091102_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091102.cpp';
+      func-mem-desc-line = '56';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091102_8cpp_1ae2e6bc1d42a33edb8d9d82c98581ae74';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'getPC';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+PitchList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'p';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091102.cpp';
+      func-mem-desc-line = '91';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091102_8cpp_1a57d9c13ce48decaac566c64b4047a840';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'generateSetComplex';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+PitchList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'P';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091102.cpp';
+      func-mem-desc-line = '101';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091102_8cpp_1ae2e6bc1d42a33edb8d9d82c98581ae74';
+        func-mem-ref-line = '91';
+        func-mem-ref-name = 'getPC';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091102_8cpp_1aa9fbc6a18946d0ced4840c9ae018d4a6';
+        func-mem-ref-line = '34';
+        func-mem-ref-name = 'setComplex';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091101_8cpp_1a40937cbf348f53dcfe2ed2151483d2a3';
+        func-mem-ref-line = '41';
+        func-mem-ref-name = 'transpose';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091102_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para2';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091102.cpp';
+      func-mem-desc-line = '112';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091102_8cpp_1a57d9c13ce48decaac566c64b4047a840';
+        func-mem-ref-line = '101';
+        func-mem-ref-name = 'generateSetComplex';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091102.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091200_8cpp';
+  file-name = 'C091200.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091200_8cpp_1ad0f3b918218314cd5facffb3cb9844c4';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091200
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091200.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091200.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091201_8cpp';
+  file-name = 'C091201.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201_8cpp_1a64928b7810837d7e2a704910b4390e57';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091201
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091201a_8cpp';
+  file-name = 'C091201a.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201a_8cpp_1a5ebc3599a4b130619012b312ebf88cf0';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091201a
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201a.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201a_8cpp_1a8788e1a63f23bf79847573ac78dd1c23';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'cycle';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'pos';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'inc';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201a.cpp';
+      func-mem-desc-line = '31';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201a_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201a.cpp';
+      func-mem-desc-line = '37';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201a_8cpp_1a8788e1a63f23bf79847573ac78dd1c23';
+        func-mem-ref-line = '31';
+        func-mem-ref-name = 'cycle';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201a.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091201b_8cpp';
+  file-name = 'C091201b.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201b_8cpp_1a219b9cc608477df7068e52706c2cff54';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091201b
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201b.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201b_8cpp_1acd5a59369e84e71dd44566cee436b2ce';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'palindrome';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'pos';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'inc';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201b.cpp';
+      func-mem-desc-line = '15';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201a_8cpp_1a8788e1a63f23bf79847573ac78dd1c23';
+        func-mem-ref-line = '31';
+        func-mem-ref-name = 'cycle';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201b_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201b.cpp';
+      func-mem-desc-line = '25';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201b_8cpp_1acd5a59369e84e71dd44566cee436b2ce';
+        func-mem-ref-line = '15';
+        func-mem-ref-name = 'palindrome';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201b.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091201c_8cpp';
+  file-name = 'C091201c.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201c_8cpp_1a68ff4d01e49b0d1301fcbaa9d4b983d6';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091201c
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201c.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201c_8cpp_1a6100634f9fb6f53c98f79b3579f36cc6';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'permute';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'pos';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'count';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'inc';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201c.cpp';
+      func-mem-desc-line = '15';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201a_8cpp_1a8788e1a63f23bf79847573ac78dd1c23';
+        func-mem-ref-line = '31';
+        func-mem-ref-name = 'cycle';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201c_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201c.cpp';
+      func-mem-desc-line = '26';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201c_8cpp_1a6100634f9fb6f53c98f79b3579f36cc6';
+        func-mem-ref-line = '14';
+        func-mem-ref-name = 'permute';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201c.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091201d_8cpp';
+  file-name = 'C091201d.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201d_8cpp_1a8565ec6648a8e5b21899da1090d52697';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091201d
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201d.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201d_8cpp_1a04ddaabe92a4c376eb4d41ab5cda8b62';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'transpose';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'p';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'off';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201d.cpp';
+      func-mem-desc-line = '16';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201d_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201d.cpp';
+      func-mem-desc-line = '20';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201d.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091201e_8cpp';
+  file-name = 'C091201e.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201e_8cpp_1a575138d87bad9ff20beb686ca574db32';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091201e
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201e.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+        func-mem-ref-line = '83';
+        func-mem-ref-name = 'para2';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201e_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201e.cpp';
+      func-mem-desc-line = '35';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201e_8cpp_1a8b016610910fc7a49971593a0dfb320b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'interpTendency';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'f';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L1';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'pos1';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L2';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'pos2';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'inc';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201e.cpp';
+      func-mem-desc-line = '56';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201a_8cpp_1a8788e1a63f23bf79847573ac78dd1c23';
+        func-mem-ref-line = '31';
+        func-mem-ref-name = 'cycle';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201e_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para2';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201e.cpp';
+      func-mem-desc-line = '62';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201e_8cpp_1a8b016610910fc7a49971593a0dfb320b';
+        func-mem-ref-line = '51';
+        func-mem-ref-name = 'interpTendency';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201e.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091201f_8cpp';
+  file-name = 'C091201f.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201f_8cpp_1a87b8df3eedc0d360e2c0470f52c68bd4';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091201f
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201f.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+        func-mem-ref-line = '83';
+        func-mem-ref-name = 'para2';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201f_8cpp_1ac28d234ee530593ce9c954d2db00459c';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'linearInterpolate';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'x';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'xMin';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'xMax';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'yMin';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'yMax';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201f.cpp';
+      func-mem-desc-line = '34';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201f_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201f.cpp';
+      func-mem-desc-line = '40';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201f_8cpp_1ac28d234ee530593ce9c954d2db00459c';
+        func-mem-ref-line = '28';
+        func-mem-ref-name = 'linearInterpolate';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201f_8cpp_1a51a2432bb472daec588df965cb072f18';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'stretch';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'yMin';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'yMax';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201f.cpp';
+      func-mem-desc-line = '55';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201f_8cpp_1ac28d234ee530593ce9c954d2db00459c';
+        func-mem-ref-line = '28';
+        func-mem-ref-name = 'linearInterpolate';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091201f_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para2';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201f.cpp';
+      func-mem-desc-line = '64';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201f_8cpp_1a51a2432bb472daec588df965cb072f18';
+        func-mem-ref-line = '55';
+        func-mem-ref-name = 'stretch';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091201f.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091204_8cpp';
+  file-name = 'C091204.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204_8cpp_1a7ec7e3b44201a508df0a0417b3c24ecb';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091204
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091204a_8cpp';
+  file-name = 'C091204a.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204a_8cpp_1ae1ad3c09847d37adee4173e2ae92fbdf';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091204a
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204a.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204a_8cpp_1ad037cda83a525e267629a0fcd051791f';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'randomRow';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'N';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204a.cpp';
+      func-mem-desc-line = '20';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204a_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204a.cpp';
+      func-mem-desc-line = '43';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091204a_8cpp_1ad037cda83a525e267629a0fcd051791f';
+        func-mem-ref-line = '20';
+        func-mem-ref-name = 'randomRow';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204a.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091204b_8cpp';
+  file-name = 'C091204b.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204b_8cpp_1a996327b0ecff8d03e0b882638783adfe';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091204b
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204b.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+        func-mem-ref-line = '83';
+        func-mem-ref-name = 'para2';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204b_8cpp_1a0408a2994bc9eef323f4bc05dcdf6409';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'swap';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'from';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'to';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204b.cpp';
+      func-mem-desc-line = '17';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204b_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204b.cpp';
+      func-mem-desc-line = '24';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204b_8cpp_1ad735c189c51a872f5bf4ed1781bfbc39';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'shuffle';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204b.cpp';
+      func-mem-desc-line = '35';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091204a_8cpp_1ad037cda83a525e267629a0fcd051791f';
+        func-mem-ref-line = '20';
+        func-mem-ref-name = 'randomRow';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091204b_8cpp_1a0408a2994bc9eef323f4bc05dcdf6409';
+        func-mem-ref-line = '17';
+        func-mem-ref-name = 'swap';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204b_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para2';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204b.cpp';
+      func-mem-desc-line = '44';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091204b_8cpp_1ad735c189c51a872f5bf4ed1781bfbc39';
+        func-mem-ref-line = '35';
+        func-mem-ref-name = 'shuffle';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204b.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091204d_8cpp';
+  file-name = 'C091204d.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204d_8cpp_1a2d26bb54981ad24b44de73cedfe6ab3b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091204d
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204d.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204d_8cpp_1a81591e826a2c218f136e295474dc3cb9';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'randTendency';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L1';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'pos1';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L2';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'pos2';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'inc';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204d.cpp';
+      func-mem-desc-line = '18';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201a_8cpp_1a8788e1a63f23bf79847573ac78dd1c23';
+        func-mem-ref-line = '31';
+        func-mem-ref-name = 'cycle';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091204d_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204d.cpp';
+      func-mem-desc-line = '27';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091204d_8cpp_1a81591e826a2c218f136e295474dc3cb9';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'randTendency';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091204d.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091405_8cpp';
+  file-name = 'C091405.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091405_8cpp_1afa3070f439e159aaa586052593177084';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091405
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091405.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091405.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091406_8cpp';
+  file-name = 'C091406.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406_8cpp_1a3efdd7179829dddda076ee78d1d443cd';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091406
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+        func-mem-ref-line = '83';
+        func-mem-ref-name = 'para2';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091101_8cpp_1ab1a58db5a4536b48a9dc72f2b45a7646';
+        func-mem-ref-line = '93';
+        func-mem-ref-name = 'para3';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406_8cpp_1acea79a90174b3d474a488c6589ba75a7';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'f';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+12.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+11.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+10.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+9.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+8.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+7.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+6.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+5.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+4.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+3.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+2.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1.
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '0';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406.cpp';
+      func-mem-desc-line = '24';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406.cpp';
+      func-mem-desc-line = '26';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406_8cpp_1a3987cbec86b9fb72aca9cbfab39b7475';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'sum';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406.cpp';
+      func-mem-desc-line = '38';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para2';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406.cpp';
+      func-mem-desc-line = '46';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406_8cpp_1a3987cbec86b9fb72aca9cbfab39b7475';
+        func-mem-ref-line = '38';
+        func-mem-ref-name = 'sum';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406_8cpp_1ab2244ec4b0a2bdc304863bd8a794f039';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'normalize';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 's';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406.cpp';
+      func-mem-desc-line = '60';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406_8cpp_1ab1a58db5a4536b48a9dc72f2b45a7646';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para3';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406.cpp';
+      func-mem-desc-line = '67';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091101_8cpp_1a1d4aec276072de230e1f8acc9a667e1c';
+        func-mem-ref-line = '84';
+        func-mem-ref-name = 'retrograde';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406_8cpp_1a3987cbec86b9fb72aca9cbfab39b7475';
+        func-mem-ref-line = '38';
+        func-mem-ref-name = 'sum';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091406a_8cpp';
+  file-name = 'C091406a.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406a_8cpp_1a0525107750b8d03d3264961ec31397dd';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091406a
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406a.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406a_8cpp_1a65736dfd5c37808e37f643dc0742e00a';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+RealList Reference
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'accumulate';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406a.cpp';
+      func-mem-desc-line = '16';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406a_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406a.cpp';
+      func-mem-desc-line = '23';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406a.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091406b_8cpp';
+  file-name = 'C091406b.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406b_8cpp_1a5d9af92eca06b4bff3673de595237bed';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091406b
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406b.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+        func-mem-ref-line = '83';
+        func-mem-ref-name = 'para2';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406b_8cpp_1a9a9e1ea5ed3d79fb9a0911404332b1a2';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'getIndex';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'R';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406b.cpp';
+      func-mem-desc-line = '16';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406b_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406b.cpp';
+      func-mem-desc-line = '26';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406b_8cpp_1a9a9e1ea5ed3d79fb9a0911404332b1a2';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'getIndex';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406b_8cpp_1a18e80f93d8c2934f3094f501ee77fc4b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para2';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406b.cpp';
+      func-mem-desc-line = '38';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406a_8cpp_1a65736dfd5c37808e37f643dc0742e00a';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'accumulate';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406b_8cpp_1a9a9e1ea5ed3d79fb9a0911404332b1a2';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'getIndex';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a8dddee101fa87aa86b77a36829af420d';
+        func-mem-ref-line = '57';
+        func-mem-ref-name = 'guido';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406_8cpp_1ab2244ec4b0a2bdc304863bd8a794f039';
+        func-mem-ref-line = '60';
+        func-mem-ref-name = 'normalize';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406_8cpp_1a3987cbec86b9fb72aca9cbfab39b7475';
+        func-mem-ref-line = '38';
+        func-mem-ref-name = 'sum';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406b.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091406c_8cpp';
+  file-name = 'C091406c.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406c_8cpp_1a13887784065afd5f72529bb2745bb277';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091406c
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406c.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406c_8cpp_1a55ce682908e8a2b8ac361a2f6110f5b3';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'a';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406c.cpp';
+      func-mem-desc-line = '20';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406c_8cpp_1a8fa3c29fb364822ce0f8feb4c4b6d346';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'b';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406c.cpp';
+      func-mem-desc-line = '23';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406c_8cpp_1ac60dd81b42a241699093ce46bb69f747';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'c';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406c.cpp';
+      func-mem-desc-line = '26';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406c_8cpp_1a3ea459360ebba4bc34910c38bd48e282';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'd';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+0
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+1
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406c.cpp';
+      func-mem-desc-line = '29';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406c_8cpp_1a7fc61ce88fa32937ffb8e06bbb4c7da6';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'progress';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'p';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406c.cpp';
+      func-mem-desc-line = '32';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406c_8cpp_1a0ae0f8fa3e6157975a993a01056b69ba';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+StringList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'n';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"C"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"Cs"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"D"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"Ds"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"E"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"F"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"Fs"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"G"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"Gs"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"A"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"As"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"B"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+"c"
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406c.cpp';
+      func-mem-desc-line = '37';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406c_8cpp_1a81132f0d4286cfdee1f026c12989d0a7';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'randomMelody';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'a';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'b';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'c';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'd';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406c.cpp';
+      func-mem-desc-line = '39';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406a_8cpp_1a65736dfd5c37808e37f643dc0742e00a';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'accumulate';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406b_8cpp_1a9a9e1ea5ed3d79fb9a0911404332b1a2';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'getIndex';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406_8cpp_1ab2244ec4b0a2bdc304863bd8a794f039';
+        func-mem-ref-line = '60';
+        func-mem-ref-name = 'normalize';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406c_8cpp_1a7fc61ce88fa32937ffb8e06bbb4c7da6';
+        func-mem-ref-line = '32';
+        func-mem-ref-name = 'progress';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406_8cpp_1a3987cbec86b9fb72aca9cbfab39b7475';
+        func-mem-ref-line = '38';
+        func-mem-ref-name = 'sum';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091406c_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406c.cpp';
+      func-mem-desc-line = '71';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406c_8cpp_1a81132f0d4286cfdee1f026c12989d0a7';
+        func-mem-ref-line = '39';
+        func-mem-ref-name = 'randomMelody';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091406c.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091704b_8cpp';
+  file-name = 'C091704b.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091704b_8cpp_1a641f1996c8142aba760624cbb783dc6f';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091704b
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091704b.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091704b_8cpp_1a3e2ee0ba2e2f39e2332ce8eee139d1f8';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'brownian';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'x';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'w';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'B';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091704b.cpp';
+      func-mem-desc-line = '13';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091704b_8cpp_1acb921d8b3fc63e25cae59b53a4c9abc9';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'PlotPoint';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'x';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'y';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091704b.cpp';
+      func-mem-desc-line = '22';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091704b_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091704b.cpp';
+      func-mem-desc-line = '31';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091704b_8cpp_1a3e2ee0ba2e2f39e2332ce8eee139d1f8';
+        func-mem-ref-line = '13';
+        func-mem-ref-name = 'brownian';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091704b_8cpp_1acb921d8b3fc63e25cae59b53a4c9abc9';
+        func-mem-ref-line = '21';
+        func-mem-ref-name = 'PlotPoint';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091704b.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091704c_8cpp';
+  file-name = 'C091704c.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091704c_8cpp_1acabf9c7fef3d1b91922614fd5ca703f2';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091704c
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091704c.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091704c.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_c091704d_8cpp';
+  file-name = 'C091704d.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091704d_8cpp_1a7bb7aaa8dfa2d71d6079e69cbe60ca5a';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'MusimatChapter9Section';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+C091704d
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091704d.cpp';
+      func-mem-desc-line = '2';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'para1';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091704d_8cpp_1ada0822b19ac3b3ea3c2b8b53aeeddebe';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'VossFracRand';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'n';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091704d.cpp';
+      func-mem-desc-line = '18';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406_8cpp_1a3987cbec86b9fb72aca9cbfab39b7475';
+        func-mem-ref-line = '38';
+        func-mem-ref-name = 'sum';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_c091704d_8cpp_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091704d.cpp';
+      func-mem-desc-line = '30';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091704d_8cpp_1ada0822b19ac3b3ea3c2b8b53aeeddebe';
+        func-mem-ref-line = '18';
+        func-mem-ref-name = 'VossFracRand';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/C091704d.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_musimat_chapter9_8cpp';
+  file-name = 'MusimatChapter9.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8cpp_1a353674c5af92be7fb389265cde4e5e03';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = '_tmain';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'argc';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+_TCHAR *
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'argv';
+        func-mem-param-array = '[]';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.cpp';
+      func-mem-desc-line = '59';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_musimat_chapter9_8h';
+  file-name = 'MusimatChapter9.h';
+    define = {
+    define-member = {
+      define-mem-kind = 'define';
+      define-mem-id   = '_musimat_chapter9_8h_1a863db72f271bc4be79868dedfa946667';
+      define-mem-virt = normal;
+      define-mem-prot = public;
+      define-mem-name = 'MusimatChapter9Section';
+      define-mem-param  = {
+        define-mem-def-name = 'x';
+      }; /*        define-mem-def--param */
+      define-mem-initializer = <<_EnD_oF_dEf_TeXt_
+Void x()
+_EnD_oF_dEf_TeXt_;
+      define-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      define-mem-desc-line = '65';
+      define-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      define-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* define-member */
+    };
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1aaa053e6e445b95bf91cede6d32861ea2';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C090400';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '21';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1ab0d0c29b8a4c6171842014a33d13ae8d';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C090703';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '22';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1ad870a5e9447c4a8a9909f288dac11d8f';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C090703a';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '23';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a4437d01657b08b142ed16834792e726e';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C090703b';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '24';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1abdc264f34124be47d217ecc6895a9c86';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C090703c';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '25';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1af1836e91e7910b8865f70f452893a870';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C090903';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '26';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a98d81ab459158ce55ac2b9106ac708e6';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091101';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '27';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1ab63eb0ed2634c1f1561990caaf44261f';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091102';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '28';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a7bfc01599bc6d5a7ede5a4d3b5ab50d1';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091200';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '29';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a9b28f2326b23ea43a440efeffa5969b5';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091201';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '30';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a568018f223a35fdd4a884f3a3b224ae7';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091201a';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '31';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a3fa4f5c8d34b7ba54d8c436bccaf6b57';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091201b';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '32';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a064df14293ede498a6cb7dd0531781a3';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091201c';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '33';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a639cc4e3ee6f3fdf41aaa181e4e59194';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091201d';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '34';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a406cc91fa4d6c87193d119b979878179';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091201e';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '35';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1aa9a3118821f067597362e1650dd5c241';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091201f';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '36';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1acb4322b121d870f314c411587afdfadb';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091204';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '37';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a1441e2f9f68e424abc5b54f002f23711';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091204a';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '38';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a695da64bac9737c07ada0e3cfe5bc641';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091204b';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '39';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a88890bc68fcd6282fba8ca293f426019';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091204d';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '40';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1ab33db554bb9f6de67210ac29122459a5';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091405';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '41';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a498d3a5eae377dbd456c245b2f2486f9';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091406';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '42';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1ae13e7ee85d90a617edb3fbea81075ec4';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091406a';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '43';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a1f65d29435cb8419d1da3ab8ef789f93';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091406b';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '44';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a2e63290f3a5821cce14bab8d87b81f9c';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091406c';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '45';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1abfc0717192080193e8f40b5e7e45cb83';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091704b';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '46';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1adb9a72fa5fa0b9c751f00337e6ccda2e';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091704c';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '47';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a5e24e1c5d1f3bcd3a301fefffd76c8b7';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'C091704d';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '48';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1abce0cc74f60b4cf850d300281c156b37';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'transpose';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '50';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a1db97d1e2b9119ee2e8495c16c7c4e02';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'invert';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '51';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a04804d9336386e8e64a1a50ca49dd9c7';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'getIndex';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '52';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1ac8e496d663c9ccdda7ec5521b6caa545';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'rotate';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'Reference';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '53';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090903_8cpp_1a22c8d94c6ed90f6268e704ae22342ed4';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'rotate';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a0a29ab546b1745d6d142b547e1217500';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'cycle';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'Reference';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '54';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a3987cbec86b9fb72aca9cbfab39b7475';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'sum';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '55';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a65736dfd5c37808e37f643dc0742e00a';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+RealList Reference
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'accumulate';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '56';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a8f121c02278f77f9fcb6b68b231edd7f';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+IntegerList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'randomRow';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '57';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1ab2244ec4b0a2bdc304863bd8a794f039';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'normalize';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RealList
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'L';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 's';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '58';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a313d0664eea167aba808f74d60faf912';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'realToRational';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Real
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'f';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'num';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Integer Reference
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'den';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '59';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a6376be4538cba23c4fe0b4c245417d94';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para1';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '61';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091704b_8cpp_1a3e2ee0ba2e2f39e2332ce8eee139d1f8';
+        func-mem-ref-line = '13';
+        func-mem-ref-name = 'brownian';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201a_8cpp_1a8788e1a63f23bf79847573ac78dd1c23';
+        func-mem-ref-line = '31';
+        func-mem-ref-name = 'cycle';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406b_8cpp_1a9a9e1ea5ed3d79fb9a0911404332b1a2';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'getIndex';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703_8cpp_1ace565ce504cbccd009364f39c1720994';
+        func-mem-ref-line = '55';
+        func-mem-ref-name = 'lcRandom';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201f_8cpp_1ac28d234ee530593ce9c954d2db00459c';
+        func-mem-ref-line = '28';
+        func-mem-ref-name = 'linearInterpolate';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703b_8cpp_1a6b8d5627624be264167f6e896b748fde';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'luRandom';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201b_8cpp_1acd5a59369e84e71dd44566cee436b2ce';
+        func-mem-ref-line = '15';
+        func-mem-ref-name = 'palindrome';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201c_8cpp_1a6100634f9fb6f53c98f79b3579f36cc6';
+        func-mem-ref-line = '14';
+        func-mem-ref-name = 'permute';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091704b_8cpp_1acb921d8b3fc63e25cae59b53a4c9abc9';
+        func-mem-ref-line = '21';
+        func-mem-ref-name = 'PlotPoint';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406c_8cpp_1a81132f0d4286cfdee1f026c12989d0a7';
+        func-mem-ref-line = '39';
+        func-mem-ref-name = 'randomMelody';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091204a_8cpp_1ad037cda83a525e267629a0fcd051791f';
+        func-mem-ref-line = '20';
+        func-mem-ref-name = 'randomRow';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091204d_8cpp_1a81591e826a2c218f136e295474dc3cb9';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'randTendency';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090903_8cpp_1a22c8d94c6ed90f6268e704ae22342ed4';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'rotate';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703a_8cpp_1a62386ee4462631043227484debebd75d';
+        func-mem-ref-line = '27';
+        func-mem-ref-name = 'seedRandom';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091101_8cpp_1a40937cbf348f53dcfe2ed2151483d2a3';
+        func-mem-ref-line = '41';
+        func-mem-ref-name = 'transpose';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091704d_8cpp_1ada0822b19ac3b3ea3c2b8b53aeeddebe';
+        func-mem-ref-line = '18';
+        func-mem-ref-name = 'VossFracRand';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1a18e80f93d8c2934f3094f501ee77fc4b';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para2';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '62';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406a_8cpp_1a65736dfd5c37808e37f643dc0742e00a';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'accumulate';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091102_8cpp_1a57d9c13ce48decaac566c64b4047a840';
+        func-mem-ref-line = '101';
+        func-mem-ref-name = 'generateSetComplex';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406b_8cpp_1a9a9e1ea5ed3d79fb9a0911404332b1a2';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'getIndex';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090400_8cpp_1a8dddee101fa87aa86b77a36829af420d';
+        func-mem-ref-line = '57';
+        func-mem-ref-name = 'guido';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201e_8cpp_1a8b016610910fc7a49971593a0dfb320b';
+        func-mem-ref-line = '51';
+        func-mem-ref-name = 'interpTendency';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091101_8cpp_1a4601ab7349594e56eec46f0132848c68';
+        func-mem-ref-line = '63';
+        func-mem-ref-name = 'invert';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c090703c_8cpp_1ab6cf9f954fcd1d2f5d5e85ed90c6dd03';
+        func-mem-ref-line = '38';
+        func-mem-ref-name = 'iRandom';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406_8cpp_1ab2244ec4b0a2bdc304863bd8a794f039';
+        func-mem-ref-line = '60';
+        func-mem-ref-name = 'normalize';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091204b_8cpp_1ad735c189c51a872f5bf4ed1781bfbc39';
+        func-mem-ref-line = '35';
+        func-mem-ref-name = 'shuffle';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091201f_8cpp_1a51a2432bb472daec588df965cb072f18';
+        func-mem-ref-line = '55';
+        func-mem-ref-name = 'stretch';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406_8cpp_1a3987cbec86b9fb72aca9cbfab39b7475';
+        func-mem-ref-line = '38';
+        func-mem-ref-name = 'sum';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_musimat_chapter9_8h_1ab1a58db5a4536b48a9dc72f2b45a7646';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+Static Void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'para3';
+      func-mem-desc-file = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+      func-mem-desc-line = '63';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091101_8cpp_1a1d4aec276072de230e1f8acc9a667e1c';
+        func-mem-ref-line = '84';
+        func-mem-ref-name = 'retrograde';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_c091406_8cpp_1a3987cbec86b9fb72aca9cbfab39b7475';
+        func-mem-ref-line = '38';
+        func-mem-ref-name = 'sum';
+    };
+    }; /* func-member */
+    };
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/MusimatChapter9.h';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'stdafx_8cpp';
+  file-name = 'stdafx.cpp';
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/stdafx.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'stdafx_8h';
+  file-name = 'stdafx.h';
+  file-full-name  = '/Users/garethloy/Musimathics/Musimat1.2/MusimatChapter9/stdafx.h';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
